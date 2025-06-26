@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanknagaraju&label=Profile%20views&color=0e75b6&style=flat" alt="shashanknagaraju" /> </p>
 
-- 🔭 I’m currently working on **AIML**
+- 🔭 I’m currently working on **AIML PROJECTS**
 
 - 🌱 I’m currently learning **Machine Learning**
 
