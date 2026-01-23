@@ -5,11 +5,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashanknagaraju&label=Profile%20views&color=0e75b6&style=flat" alt="shashanknagaraju" /> </p>
+- 🔭 Developing end-to-end **AI/ML projects**
 
-- 🔭 I’m currently working on **AIML PROJECTS**
-
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Expanding skills in **Machine Learning algorithms and model building**
 
 - 📫 How to reach me **shashankrnagaraju@gmail.com**
 
